@@ -1,0 +1,4 @@
+*.log
+*.tmp
+clip_*.png
+latest.png

@@ -1,0 +1,24 @@
+{
+  "SaveDir": "C:\\tmp\\claude-clipboard",
+  "WslMountPrefix": "/mnt",
+  "PollIntervalMs": 500,
+  "MaxHistory": 10,
+  "ShowNotifications": true,
+  "TerminalProcesses": [
+    "windowsterminal",
+    "cmd",
+    "powershell",
+    "pwsh",
+    "mintty",
+    "conhost",
+    "alacritty",
+    "wezterm-gui",
+    "hyper",
+    "code",
+    "cursor",
+    "kitty",
+    "tabby",
+    "rio",
+    "ghostty"
+  ]
+}
